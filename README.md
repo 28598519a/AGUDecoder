@@ -15,6 +15,7 @@ Key: renrengame
 
 ## 使用
 先選資料夾(會包含子資料夾)，在按解密 (雖然有驗標頭，但他標頭是"encode"，我覺得這個開頭有機率撞到，所以資料夾不要亂選)
+
 ![](https://user-images.githubusercontent.com/33422418/214648457-ec33384a-d949-4b04-86e1-f89c779711e4.png)
 
 Required : .net 6 及 Visual Studio C# 2022
